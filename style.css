@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: beige;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.menu-card{
+    background-color: rgb(85, 41, 6, 0.3);
+    max-width: 600px;
+    margin: 1% 30% 1% 30%;
+    padding: 20px;
+    border-radius: 2%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+h1{	
+	font-size:35px;
+  font-family: 'Poppins', sans-serif;
+	color:#222222;
+	padding: 15rem 0rem 0rem 0rem;
+	text-align:center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+}
+
+h4{
+	font-size:15px;
+  font-family: 'Poppins', sans-serif;
+	color:#222222;
+	padding: 1rem 0rem 0rem 0rem;
+	text-align:center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+}
+
+.menu-head1{
+	color: #552906;
+    letter-spacing: .15em;
+    text-shadow: 
+      1px -1px 0 #767676,
+	 -1px  2px 1px #FFF,
+	 -2px  3px 1px  #F6FBF2,
+	 -3px  4px 1px  #FFF,
+	 -4px  5px 2px #FFF,
+	 -5px  6px 3px #FFF,
+	 -6px  7px 5px #FFF,
+	 -7px  8px 0 #552906,
+	 -8px  9px 0 #552906,
+	 -9px  10px 0 #552906
+	 ;
+  }
+
+  .menu-head4{
+    color: #552906;
+    letter-spacing: .15em;
+  }
+
+  .ice1{
+    height: 12rem;
+    width: 12rem;
+    object-fit: cover;
+    border: .1rem;
+    border-radius: 50%;
+    position: absolute;
+    margin: 1rem 0rem 0rem 12rem;
+  }
+
+  .ice2{
+    height: 10rem;
+    width: 10rem;
+    object-fit: cover;
+    border: .1rem;
+    border-radius: 50%;
+    position: absolute;
+    margin: 1rem 0rem 0rem 4rem;
+  }
+
+  .ice3{
+    height: 10rem;
+    width: 10rem;
+    object-fit:fill;
+    border: .1rem;
+    border-radius: 50%;
+    position: absolute;
+    margin: 1rem 0rem 0rem 23rem;
+  }
+
+
+
+  .t1{
+    margin: 2rem 0rem 0rem 0rem;
+    padding: 0;
+  }
+
+  .t2{
+    margin: 2rem 0rem 0rem 0rem;
+    padding: 0;
+  }
+
+
+  .t3{
+    margin: -21.5rem 0rem 0rem 23rem;
+    padding: 0;
+  }
+
+  .t4{
+    margin: 2rem 0rem 0rem 23rem;
+    padding: 0;
+  }
+
+  .t3 .tr3{
+    padding: 2rem;
+  }
+
+  .t1 tr td:nth-child(3){
+    padding-left: 4.3rem;
+  }
+
+  .t2 tr td:nth-child(3){
+    padding-left: 3rem;
+  }
+
+  .t3 tr td:nth-child(3){
+    padding-left: 3rem;
+  }
+
+  .t4 tr td:nth-child(3){
+    padding-left: 3.2rem;
+  }
